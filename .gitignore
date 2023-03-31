@@ -160,9 +160,13 @@ cython_debug/
 #.idea/
 
 # Visual Studip code
-.vscode
+.vscode/
 
 
 #trash
 API веб-сервисов.apkg
 first week review.docx
+.git/
+.gitignore
+/week1/weather.ipynb
+*.ipynb
